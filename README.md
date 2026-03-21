@@ -1,1 +1,1 @@
-# creative one
+# Projects related to ai ml
