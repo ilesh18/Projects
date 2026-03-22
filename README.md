@@ -1,1 +1,2 @@
-# Projects related to ai ml
+# small projects for practice
+
