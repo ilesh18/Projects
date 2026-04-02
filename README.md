@@ -1,2 +1,2 @@
-# small projects for practice
+# Small projects for practice
 
