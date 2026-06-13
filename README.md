@@ -1,2 +1,1 @@
-# Small Projects for Practice
 
